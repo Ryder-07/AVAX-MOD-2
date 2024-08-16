@@ -91,7 +91,7 @@ If you encounter any issues, refer to the README file or run the appropriate com
 
 ## Authors
 
-- Gopal Yadav
+- Rudra Pratap Singh
 
 ## License
 
